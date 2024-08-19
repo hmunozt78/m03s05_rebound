@@ -1,7 +1,7 @@
 Modulo 03
-Sesión 04
-Ejercicio Final
+Sesión 05
+Ejercicio Comprobacion
 
 Para obtener copia de este proyecto, ejecute el siguiente comando:
 
-git clone 
+git clone https://github.com/hmunozt78/m03s05_rebound.git
